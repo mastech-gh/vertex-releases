@@ -1,9 +1,9 @@
 {
-  "version": "0.1.57",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.57/VertexCollectorSetup.exe",
-  "sha256": "52081193c1aacdc3d1052fb2ce63cf6e35119b71670442d65252ea362e6203ec",
-  "size": 20629944,
-  "notes": "Window with no engine running: start the installed one, or run a portable engine in-process, instead of crashing",
-  "published": "2026-10-29T13:16:32Z",
-  "signature": "OStNfA65z6sVWnt79eNuWMF1p53wez/9XurUf0UdqHnL6vvJfBDFZO8nAUs8rpE7HVnTueiIuxN4huZ+KHu0CA=="
+  "version": "0.1.59",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.59/VertexCollectorSetup.exe",
+  "sha256": "20cb98e895501995cc40c1f1d594be8337f4a94db3e67971304fcf2cd4455e6c",
+  "size": 20631245,
+  "notes": "Linux: sudo vertex-collector uninstall",
+  "published": "2026-10-29T14:09:13Z",
+  "signature": "NQ7PQF1MZUq0cijgznjIPiEKCTDwuGEDCkCyO+r8iEz9lDqz7pmkdYPFcV2JsTmZ2FYagVDCevmryxCpuTWNCQ=="
 }
