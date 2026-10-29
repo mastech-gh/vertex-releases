@@ -1,9 +1,9 @@
 {
-  "version": "0.1.66",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.66/vertex-collector_0.1.66_amd64.deb",
-  "sha256": "6b892ef9f1d0b8824c2edcf3ac8014e414080c5e1489c867c4b8536c00defb89",
-  "size": 25116160,
-  "notes": "Tenant: groups, domains, tenant policy, Intune, OAuth consent, secure score, email DNS; 14 new rules; tenant upgrade command",
-  "published": "2026-10-29T21:53:49Z",
-  "signature": "xk9gd4x1obOvPCACrb9KeDuexn6lSyflRbCeoG13EKxNh1sO49nMrhxe5c3Tr4ySfSjC4bCLVdRAoLAFQAtvDw=="
+  "version": "0.1.67",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.67/vertex-collector_0.1.67_amd64.deb",
+  "sha256": "c88f59f7c2f82bc042c7d0deb9fc748607d12e5232fe95f2336e461bbc2016fe",
+  "size": 25327570,
+  "notes": "Sophos Firewall integration (read-only XML API, pinned certificate), Sophos tab, FW-001..004 findings",
+  "published": "2026-10-29T23:48:35Z",
+  "signature": "Ow6t7xLexp+RHBabpzyNUp009+mkEd00KfLMq7v2FttpEKz9G+z8ZLPeyW0Yb+C4gWF8MhJyFyLEWn4lW5PmAQ=="
 }
