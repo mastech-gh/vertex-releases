@@ -1,9 +1,9 @@
 {
-  "version": "0.1.53",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.53/VertexCollectorSetup.exe",
-  "sha256": "9a0f3d7d09608c0670420217138b807ec8969222aff3d728616934e9754a12c9",
-  "size": 27638023,
-  "notes": "Topology: wired, unconfirmed and wireless bundles leave the parent at separate points",
-  "published": "2026-10-29T06:56:01Z",
-  "signature": "Ik7Lstmh/7yeeTeMlMR/pn3yKlG5Kg4XDNZqdt6geZM/rC3EIDOpdE1YNom5IBqUbS1NV3pT20k1djg6L3O3DQ=="
+  "version": "0.1.54",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.54/VertexCollectorSetup.exe",
+  "sha256": "e7a876533514d897f8b142c05c25a93b0c6a6f50189bca5661e36858e4c83048",
+  "size": 27636913,
+  "notes": "Topology: tiered hierarchy (gear, then wired clients, then unconfirmed, then wireless), each with its own bus line; clients of a device with infrastructure sit a tier below it",
+  "published": "2026-10-29T07:07:15Z",
+  "signature": "XalMU8GQIGdAGzJILhNNRQqPIru5guCYDo2GUwtMbMeIBOZyQriB8YcraAPb8d0N2wO3E9C0jTtRDqku9jJeCA=="
 }
