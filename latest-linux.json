@@ -1,9 +1,9 @@
 {
-  "version": "0.1.61",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.61/vertex-collector_0.1.61_amd64.deb",
-  "sha256": "5ab70f8af63f2b498b853963439483421a70fa6631ef982f603232dbb60b4b76",
-  "size": 25012036,
-  "notes": "Arch Linux: PKGBUILD, private source bundle, sysusers/tmpfiles, pacman-managed updates, CI build and install check",
-  "published": "2026-10-29T14:24:21Z",
-  "signature": "2ULH4q4L7ZYwn/2Jar9Vb+i6YF7MQvSLOWL4onXV0XVR0J03P49tGOqw79V/YZXb4KikE+R4Upalzk336QshCg=="
+  "version": "0.1.62",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.62/vertex-collector_0.1.62_amd64.deb",
+  "sha256": "267818c2f2ca7d909003359650ebf61f126caaaabcbe8b3ca44b9d4aa187abee",
+  "size": 25011976,
+  "notes": "Release both platforms together: one gated job signs and publishes the Windows and Linux builds",
+  "published": "2026-10-29T14:41:17Z",
+  "signature": "kdkdj2oPsmAjU4btxL92k9zBfuMjFK+CC8oEcIJf7wEGDe5gnvWELMsCDIAEk0WCmzskYfdSekXgY8Fy1lU1Bg=="
 }
