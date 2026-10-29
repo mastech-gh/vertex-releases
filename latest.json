@@ -1,9 +1,9 @@
 {
-  "version": "0.1.59",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.59/VertexCollectorSetup.exe",
-  "sha256": "20cb98e895501995cc40c1f1d594be8337f4a94db3e67971304fcf2cd4455e6c",
-  "size": 20631245,
-  "notes": "Linux: sudo vertex-collector uninstall",
-  "published": "2026-10-29T14:09:13Z",
-  "signature": "NQ7PQF1MZUq0cijgznjIPiEKCTDwuGEDCkCyO+r8iEz9lDqz7pmkdYPFcV2JsTmZ2FYagVDCevmryxCpuTWNCQ=="
+  "version": "0.1.61",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.61/VertexCollectorSetup.exe",
+  "sha256": "f1f3823b3fd3ae0b8c044050e11b21a6e37b8820704e8308560d4f0391303340",
+  "size": 20635421,
+  "notes": "Arch Linux: PKGBUILD, private source bundle, sysusers/tmpfiles, pacman-managed updates, CI build and install check",
+  "published": "2026-10-29T14:27:02Z",
+  "signature": "GOamTuO1mzIedOwb/t7pvuH6TB2304YuauZdIUK2iQyTFRn3iMWWjctYlJIPNqbOlm+1pPM+Fr14N2BvshW+AA=="
 }
