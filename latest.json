@@ -1,9 +1,9 @@
 {
-  "version": "0.1.64",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.64/VertexCollectorSetup.exe",
-  "sha256": "1ca3dd9516ea3fcab05a0269fbe011b2c8c5af39b9dfa9f2c8f0465f216ec3d2",
-  "size": 20628424,
-  "notes": "Release job: refuse Arch runs and non-installer files so source can't be published",
-  "published": "2026-10-29T15:36:59Z",
-  "signature": "CNXumLYCcjRMQ8lpD6675N43gR8rDfPHQnozieGebie+fvYQME/77VoFcB7noUZBa3Y4u3Hf+sq7eSkcw+bSBQ=="
+  "version": "0.1.65",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.65/VertexCollectorSetup.exe",
+  "sha256": "264f7ec177528f266169691e24e4c84aa2a059fd19f54ae705ccad99795272fd",
+  "size": 20678972,
+  "notes": "Offline license foundation: signed license text, 7-day start-up period, trial/local/custom, install binding, License page, issuing tool. Not enforced in pre-release builds.",
+  "published": "2026-10-29T18:24:35Z",
+  "signature": "df5zzKZ/glQ12aj7W0JNFsiiM+hPOI+We2BMNVpYeMs/YOAy3U2uocqoDNLDCB8s69R1m/DugokzOL6fQ4YKAg=="
 }
