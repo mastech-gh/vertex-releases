@@ -1,9 +1,9 @@
 {
-  "version": "0.1.54",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.54/VertexCollectorSetup.exe",
-  "sha256": "e7a876533514d897f8b142c05c25a93b0c6a6f50189bca5661e36858e4c83048",
-  "size": 27636913,
-  "notes": "Topology: tiered hierarchy (gear, then wired clients, then unconfirmed, then wireless), each with its own bus line; clients of a device with infrastructure sit a tier below it",
-  "published": "2026-10-29T07:07:15Z",
-  "signature": "XalMU8GQIGdAGzJILhNNRQqPIru5guCYDo2GUwtMbMeIBOZyQriB8YcraAPb8d0N2wO3E9C0jTtRDqku9jJeCA=="
+  "version": "0.1.56",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.56/VertexCollectorSetup.exe",
+  "sha256": "6cb7db02d93c049006cf95a14a0fa46ffb00538b6753702648955b5f2250c579",
+  "size": 20629243,
+  "notes": "Build as a one-folder app (no self-unpacking exe) and make the smoke test report why it fails",
+  "published": "2026-10-29T12:56:55Z",
+  "signature": "Q5+jSf5nho0YpIUDU80Pwb7wQepvA776RexSqnFrYxViKfz7uhRHMUB7uLJ6BDf7QFpDHxfsSBZqQE3M8bxWAA=="
 }
