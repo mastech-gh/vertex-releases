@@ -1,9 +1,9 @@
 {
-  "version": "0.1.52",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.52/VertexCollectorSetup.exe",
-  "sha256": "640ac645616667919281f8380268b81bd71d0b7f717a2585aa71472b59846072",
-  "size": 27640033,
-  "notes": "",
-  "published": "2026-10-29T06:45:58Z",
-  "signature": "224gyS+L5xivsXrEcv5IT4h+Qrdt9NO4EsvWx9bVB5L8yEHCfk/VFHBmaVHPd+e+n0AeWlHrr4nD3h0ElYtEBQ=="
+  "version": "0.1.53",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.53/VertexCollectorSetup.exe",
+  "sha256": "9a0f3d7d09608c0670420217138b807ec8969222aff3d728616934e9754a12c9",
+  "size": 27638023,
+  "notes": "Topology: wired, unconfirmed and wireless bundles leave the parent at separate points",
+  "published": "2026-10-29T06:56:01Z",
+  "signature": "Ik7Lstmh/7yeeTeMlMR/pn3yKlG5Kg4XDNZqdt6geZM/rC3EIDOpdE1YNom5IBqUbS1NV3pT20k1djg6L3O3DQ=="
 }
