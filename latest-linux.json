@@ -1,9 +1,9 @@
 {
-  "version": "0.1.62",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.62/vertex-collector_0.1.62_amd64.deb",
-  "sha256": "267818c2f2ca7d909003359650ebf61f126caaaabcbe8b3ca44b9d4aa187abee",
-  "size": 25011976,
-  "notes": "Release both platforms together: one gated job signs and publishes the Windows and Linux builds",
-  "published": "2026-10-29T14:41:17Z",
-  "signature": "kdkdj2oPsmAjU4btxL92k9zBfuMjFK+CC8oEcIJf7wEGDe5gnvWELMsCDIAEk0WCmzskYfdSekXgY8Fy1lU1Bg=="
+  "version": "0.1.64",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.64/vertex-collector_0.1.64_amd64.deb",
+  "sha256": "a374262c54c187b699808fe7a8afc20fb4cc0dab5497815450ea61e52b26b1db",
+  "size": 25012584,
+  "notes": "Release job: refuse Arch runs and non-installer files so source can't be published",
+  "published": "2026-10-29T15:36:59Z",
+  "signature": "gV5toFd5m29Qf5SFlgx6W+qn4I6kTw2YbnAGF1HJ8DSGX1yJV3KC6KyEyPJIwa+OHO8FHD7fNHUrqjEc8G8oAQ=="
 }
