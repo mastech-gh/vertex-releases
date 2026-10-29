@@ -1,9 +1,9 @@
 {
-  "version": "0.1.44",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.44/VertexCollectorSetup.exe",
-  "sha256": "c46cdab4a8bc752bba484ef841a7c941148ea772a513ed11d0636d513c8bd194",
-  "size": 27626696,
-  "notes": "Publish on manual runs too",
-  "published": "2026-10-29T05:28:48Z",
-  "signature": "AYG8Bohm89jRiHQ238w7zItm33cg1D6402GFYaA1oPuwWZBy4w4pN0GhMmmYdWXH6dux3Z7ORAQTZ6t2Xi26DQ=="
+  "version": "0.1.49",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.49/VertexCollectorSetup.exe",
+  "sha256": "e82258f13618b85b9c32616698aaf983964cc505a8fd7d796aa9422cd59a29f4",
+  "size": 27634795,
+  "notes": "CI: diagnostics and one retry for the in-place upgrade test",
+  "published": "2026-10-29T06:15:08Z",
+  "signature": "JjIVwUXa7Ey82mRokcD9e4E7kdAzNLDkxFiFAt4e2bWNr1UIWvbBpXJJytyWt67MrIUhGQKnWCmlDYHm8eDZBg=="
 }
