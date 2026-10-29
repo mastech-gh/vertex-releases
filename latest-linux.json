@@ -1,0 +1,9 @@
+{
+  "version": "0.1.59",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.59/vertex-collector_0.1.59_amd64.deb",
+  "sha256": "6b73ba1da47b5d7e937adae31b3c049002ef6cfe72409314bc5e0cd55044873e",
+  "size": 25011332,
+  "notes": "Linux: sudo vertex-collector uninstall",
+  "published": "2026-10-29T14:06:19Z",
+  "signature": "6OeJq/dRVl05ZnVPfZYJIadYlPvmv6PlnGyI1GtXvPBUvSuJ4ry684lrwb7DUH7JS5a9RgoMcPtOJHOT/KtDBQ=="
+}
