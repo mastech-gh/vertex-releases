@@ -1,9 +1,9 @@
 {
-  "version": "0.1.61",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.61/VertexCollectorSetup.exe",
-  "sha256": "f1f3823b3fd3ae0b8c044050e11b21a6e37b8820704e8308560d4f0391303340",
-  "size": 20635421,
-  "notes": "Arch Linux: PKGBUILD, private source bundle, sysusers/tmpfiles, pacman-managed updates, CI build and install check",
-  "published": "2026-10-29T14:27:02Z",
-  "signature": "GOamTuO1mzIedOwb/t7pvuH6TB2304YuauZdIUK2iQyTFRn3iMWWjctYlJIPNqbOlm+1pPM+Fr14N2BvshW+AA=="
+  "version": "0.1.62",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.62/VertexCollectorSetup.exe",
+  "sha256": "11bc26cd544c3235e8dd6f0e85030a93b7e9e851ba2d8b9a41e1e7731837ab79",
+  "size": 20635184,
+  "notes": "Release both platforms together: one gated job signs and publishes the Windows and Linux builds",
+  "published": "2026-10-29T14:41:17Z",
+  "signature": "8Fq/c4ux+CiXBSvDZPVv0FzQi1RgEf2GSqfww8Xz7K+HzEC0BDK9oPrLO3HdW8yJ/bTX3x4W7/9qJrXEop6/DA=="
 }
