@@ -1,9 +1,9 @@
 {
-  "version": "0.1.62",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.62/VertexCollectorSetup.exe",
-  "sha256": "11bc26cd544c3235e8dd6f0e85030a93b7e9e851ba2d8b9a41e1e7731837ab79",
-  "size": 20635184,
-  "notes": "Release both platforms together: one gated job signs and publishes the Windows and Linux builds",
-  "published": "2026-10-29T14:41:17Z",
-  "signature": "8Fq/c4ux+CiXBSvDZPVv0FzQi1RgEf2GSqfww8Xz7K+HzEC0BDK9oPrLO3HdW8yJ/bTX3x4W7/9qJrXEop6/DA=="
+  "version": "0.1.64",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.64/VertexCollectorSetup.exe",
+  "sha256": "1ca3dd9516ea3fcab05a0269fbe011b2c8c5af39b9dfa9f2c8f0465f216ec3d2",
+  "size": 20628424,
+  "notes": "Release job: refuse Arch runs and non-installer files so source can't be published",
+  "published": "2026-10-29T15:36:59Z",
+  "signature": "CNXumLYCcjRMQ8lpD6675N43gR8rDfPHQnozieGebie+fvYQME/77VoFcB7noUZBa3Y4u3Hf+sq7eSkcw+bSBQ=="
 }
