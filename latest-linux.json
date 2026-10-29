@@ -1,9 +1,9 @@
 {
-  "version": "0.1.65",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.65/vertex-collector_0.1.65_amd64.deb",
-  "sha256": "7b4a24a45bc9e39b4c210b3bb1b4fb8afc377aae0140e2b7dd7545a51a144574",
-  "size": 25085858,
-  "notes": "Offline license foundation: signed license text, 7-day start-up period, trial/local/custom, install binding, License page, issuing tool. Not enforced in pre-release builds.",
-  "published": "2026-10-29T18:24:36Z",
-  "signature": "vzD1bzsv0ihwnbAdKLdYWPNvFZBDRfqtOvqNgiumzjtyFCBIZzlk1J17f5IThiV10B8W1isI+ZtZ5L7KKin8Aw=="
+  "version": "0.1.66",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.66/vertex-collector_0.1.66_amd64.deb",
+  "sha256": "6b892ef9f1d0b8824c2edcf3ac8014e414080c5e1489c867c4b8536c00defb89",
+  "size": 25116160,
+  "notes": "Tenant: groups, domains, tenant policy, Intune, OAuth consent, secure score, email DNS; 14 new rules; tenant upgrade command",
+  "published": "2026-10-29T21:53:49Z",
+  "signature": "xk9gd4x1obOvPCACrb9KeDuexn6lSyflRbCeoG13EKxNh1sO49nMrhxe5c3Tr4ySfSjC4bCLVdRAoLAFQAtvDw=="
 }
