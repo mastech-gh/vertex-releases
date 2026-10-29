@@ -1,9 +1,9 @@
 {
-  "version": "0.1.65",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.65/VertexCollectorSetup.exe",
-  "sha256": "264f7ec177528f266169691e24e4c84aa2a059fd19f54ae705ccad99795272fd",
-  "size": 20678972,
-  "notes": "Offline license foundation: signed license text, 7-day start-up period, trial/local/custom, install binding, License page, issuing tool. Not enforced in pre-release builds.",
-  "published": "2026-10-29T18:24:35Z",
-  "signature": "df5zzKZ/glQ12aj7W0JNFsiiM+hPOI+We2BMNVpYeMs/YOAy3U2uocqoDNLDCB8s69R1m/DugokzOL6fQ4YKAg=="
+  "version": "0.1.66",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.66/VertexCollectorSetup.exe",
+  "sha256": "548babdb5441a20b1ba026988aed3b21750820c891150a616323ee660879c42f",
+  "size": 20701945,
+  "notes": "Tenant: groups, domains, tenant policy, Intune, OAuth consent, secure score, email DNS; 14 new rules; tenant upgrade command",
+  "published": "2026-10-29T21:53:48Z",
+  "signature": "vxxngbk33iUxCZKVuoO/bJTCJGLSo6irimWtJqmiJKwa9WRgLjadvvsFKyt0g0WlLyWhB7vu55470qn+w153Bg=="
 }
