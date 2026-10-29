@@ -1,9 +1,9 @@
 {
-  "version": "0.1.64",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.64/vertex-collector_0.1.64_amd64.deb",
-  "sha256": "a374262c54c187b699808fe7a8afc20fb4cc0dab5497815450ea61e52b26b1db",
-  "size": 25012584,
-  "notes": "Release job: refuse Arch runs and non-installer files so source can't be published",
-  "published": "2026-10-29T15:36:59Z",
-  "signature": "gV5toFd5m29Qf5SFlgx6W+qn4I6kTw2YbnAGF1HJ8DSGX1yJV3KC6KyEyPJIwa+OHO8FHD7fNHUrqjEc8G8oAQ=="
+  "version": "0.1.65",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.65/vertex-collector_0.1.65_amd64.deb",
+  "sha256": "7b4a24a45bc9e39b4c210b3bb1b4fb8afc377aae0140e2b7dd7545a51a144574",
+  "size": 25085858,
+  "notes": "Offline license foundation: signed license text, 7-day start-up period, trial/local/custom, install binding, License page, issuing tool. Not enforced in pre-release builds.",
+  "published": "2026-10-29T18:24:36Z",
+  "signature": "vzD1bzsv0ihwnbAdKLdYWPNvFZBDRfqtOvqNgiumzjtyFCBIZzlk1J17f5IThiV10B8W1isI+ZtZ5L7KKin8Aw=="
 }
