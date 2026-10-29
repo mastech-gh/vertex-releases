@@ -1,9 +1,9 @@
 {
-  "version": "0.1.56",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.56/VertexCollectorSetup.exe",
-  "sha256": "6cb7db02d93c049006cf95a14a0fa46ffb00538b6753702648955b5f2250c579",
-  "size": 20629243,
-  "notes": "Build as a one-folder app (no self-unpacking exe) and make the smoke test report why it fails",
-  "published": "2026-10-29T12:56:55Z",
-  "signature": "Q5+jSf5nho0YpIUDU80Pwb7wQepvA776RexSqnFrYxViKfz7uhRHMUB7uLJ6BDf7QFpDHxfsSBZqQE3M8bxWAA=="
+  "version": "0.1.57",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.57/VertexCollectorSetup.exe",
+  "sha256": "52081193c1aacdc3d1052fb2ce63cf6e35119b71670442d65252ea362e6203ec",
+  "size": 20629944,
+  "notes": "Window with no engine running: start the installed one, or run a portable engine in-process, instead of crashing",
+  "published": "2026-10-29T13:16:32Z",
+  "signature": "OStNfA65z6sVWnt79eNuWMF1p53wez/9XurUf0UdqHnL6vvJfBDFZO8nAUs8rpE7HVnTueiIuxN4huZ+KHu0CA=="
 }
