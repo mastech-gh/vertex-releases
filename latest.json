@@ -1,9 +1,9 @@
 {
-  "version": "0.1.49",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.49/VertexCollectorSetup.exe",
-  "sha256": "e82258f13618b85b9c32616698aaf983964cc505a8fd7d796aa9422cd59a29f4",
-  "size": 27634795,
-  "notes": "CI: diagnostics and one retry for the in-place upgrade test",
-  "published": "2026-10-29T06:15:08Z",
-  "signature": "JjIVwUXa7Ey82mRokcD9e4E7kdAzNLDkxFiFAt4e2bWNr1UIWvbBpXJJytyWt67MrIUhGQKnWCmlDYHm8eDZBg=="
+  "version": "0.1.50",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.50/VertexCollectorSetup.exe",
+  "sha256": "5ca07fac9d6e3ba773d2c568f2877f0116a06a47e3bc8f77de0c2f3fe8e9d61e",
+  "size": 27637550,
+  "notes": "Temporary background song: plays theme.mp3 from the data folder at low volume, never bundled",
+  "published": "2026-10-29T06:28:52Z",
+  "signature": "P69h8jWzAhJhINt8Uwz/nckCHN05L/AWf9JMUrk11oy06alXj1hloDVk5M244QMUdk035H7wIQH4z3mPoDiiDA=="
 }
