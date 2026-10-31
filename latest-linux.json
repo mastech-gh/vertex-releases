@@ -1,9 +1,9 @@
 {
-  "version": "0.1.67",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.67/vertex-collector_0.1.67_amd64.deb",
-  "sha256": "c88f59f7c2f82bc042c7d0deb9fc748607d12e5232fe95f2336e461bbc2016fe",
-  "size": 25327570,
-  "notes": "Sophos Firewall integration (read-only XML API, pinned certificate), Sophos tab, FW-001..004 findings",
-  "published": "2026-10-29T23:48:35Z",
-  "signature": "Ow6t7xLexp+RHBabpzyNUp009+mkEd00KfLMq7v2FttpEKz9G+z8ZLPeyW0Yb+C4gWF8MhJyFyLEWn4lW5PmAQ=="
+  "version": "0.1.71",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.71/vertex-collector_0.1.71_amd64.deb",
+  "sha256": "679b302378cf128402fafcb463048089c29c5982f1865d6b08675d2c642ac475",
+  "size": 25328638,
+  "notes": "Installer: avoid a [Code] line that starts with [",
+  "published": "2026-10-31T04:44:38Z",
+  "signature": "cwoxoW/txqlx2dbJG7sNj6tvkbcEAOzpouzJLXaAml9enWvubGs90Chuw50MyOD7+kipR1nmhmbtxSxZNAarAw=="
 }
