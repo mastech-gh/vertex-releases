@@ -1,9 +1,9 @@
 {
-  "version": "0.1.71",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.71/vertex-collector_0.1.71_amd64.deb",
-  "sha256": "679b302378cf128402fafcb463048089c29c5982f1865d6b08675d2c642ac475",
-  "size": 25328638,
-  "notes": "Installer: avoid a [Code] line that starts with [",
-  "published": "2026-10-31T04:44:38Z",
-  "signature": "cwoxoW/txqlx2dbJG7sNj6tvkbcEAOzpouzJLXaAml9enWvubGs90Chuw50MyOD7+kipR1nmhmbtxSxZNAarAw=="
+  "version": "0.1.72",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.72/vertex-collector_0.1.72_amd64.deb",
+  "sha256": "8ff4e1280c79b1aae7122b471617f03bcf08f3c1b50e5f4809849ea8f61ee50b",
+  "size": 25328364,
+  "notes": "Device panel: show protocol toggle errors and link to Integrations when SNMP/WMI is unavailable",
+  "published": "2026-10-31T05:22:22Z",
+  "signature": "iRVZHqXZDYQIfbZPS/WLZXpFqbEQV+K7TiW20maODY8LefmoI32B87XXhamw+UWF9//e4vBkWh5bPYXNwwHwCw=="
 }
