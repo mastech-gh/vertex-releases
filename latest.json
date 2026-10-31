@@ -1,9 +1,9 @@
 {
-  "version": "0.1.74",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.74/VertexCollectorSetup.exe",
-  "sha256": "3377a436528d648ce5ce9a957284472996a70c2ae2f67271b155d1ee097838cc",
-  "size": 20728273,
-  "notes": "Live device pane; Advanced WMI applies on tick",
-  "published": "2026-10-31T05:45:21Z",
-  "signature": "yOnxkyj6LFgo1YbvhjiLIm/325WYlpWgtdhR3NLYIJ7YSf0N+Pas1YYrOItg+m7umKnpxqtikCjkQ3I77dvrCA=="
+  "version": "0.1.75",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.75/VertexCollectorSetup.exe",
+  "sha256": "21d59aab90a2fa1b2d97d03f4b641e9a2f873d76b54049db8a141137de447dc4",
+  "size": 20730431,
+  "notes": "Tray offers only 'open to finish setup' until setup is done; launch after install opens the window in front",
+  "published": "2026-10-31T06:36:22Z",
+  "signature": "vOAuPiCLIK/vP+hpb0bmswbS97q5RO0ITINrnrb9o5Kdd3PAaLhZ0zVOVv+EBIPuBJHx2OJXgKCG8df8AZQFCw=="
 }
