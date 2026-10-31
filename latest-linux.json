@@ -1,9 +1,9 @@
 {
-  "version": "0.1.72",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.72/vertex-collector_0.1.72_amd64.deb",
-  "sha256": "8ff4e1280c79b1aae7122b471617f03bcf08f3c1b50e5f4809849ea8f61ee50b",
-  "size": 25328364,
-  "notes": "Device panel: show protocol toggle errors and link to Integrations when SNMP/WMI is unavailable",
-  "published": "2026-10-31T05:22:22Z",
-  "signature": "iRVZHqXZDYQIfbZPS/WLZXpFqbEQV+K7TiW20maODY8LefmoI32B87XXhamw+UWF9//e4vBkWh5bPYXNwwHwCw=="
+  "version": "0.1.73",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.73/vertex-collector_0.1.73_amd64.deb",
+  "sha256": "e151ebcb5e849234d4ea005f9d467a94d5a10702bcfcfac4503a8c37ad441561",
+  "size": 25328818,
+  "notes": "UI: fixed header and rail, topology zooms on wheel, page body scrolls in main",
+  "published": "2026-10-31T05:27:36Z",
+  "signature": "PzjP7ih8iUWbJgvwnAPKbtoCHUAqlvedAdrCE0oK8LgDXrboUwG8LEwb3Xr4PGFi01M/LLmWRHeGetuvG61LCg=="
 }
