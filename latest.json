@@ -1,9 +1,9 @@
 {
-  "version": "0.1.67",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.67/VertexCollectorSetup.exe",
-  "sha256": "10c285e9da7df03a5420ae52fcf711a2506167f0e5c4db9dfa135a74d566aca2",
-  "size": 20728230,
-  "notes": "Sophos Firewall integration (read-only XML API, pinned certificate), Sophos tab, FW-001..004 findings",
-  "published": "2026-10-29T23:48:35Z",
-  "signature": "B3FKSm8xAOl6XummjnxK8YB/7ay2FjdNEc4uMs6YSVdbSY54tWTl+xCZA80l1ju4u/0bAc4k/w8fcYcMqrSKCQ=="
+  "version": "0.1.71",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.71/VertexCollectorSetup.exe",
+  "sha256": "a0bab376c24bf2f9217bf325a7beea7b3741addfa95f0f2f6d12a46ed7c6ee29",
+  "size": 20725473,
+  "notes": "Installer: avoid a [Code] line that starts with [",
+  "published": "2026-10-31T04:44:38Z",
+  "signature": "zjckikjQaSDHaH+xLKjmv4f+cpAzQZsjOWTCYapEpdWheCGjN9yCWbbPE6sPLtrXoLjfjeAb86MZvj1zUKu6Bg=="
 }
