@@ -1,9 +1,9 @@
 {
-  "version": "0.1.74",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.74/vertex-collector_0.1.74_amd64.deb",
-  "sha256": "d01c6e86e29dc108cf88ac090f2893e5227c5237c9e57be13f8a5d6e4eb41885",
-  "size": 25329290,
-  "notes": "Live device pane; Advanced WMI applies on tick",
-  "published": "2026-10-31T05:45:22Z",
-  "signature": "p4T04TXV5TesUkaKhG1g4AXrlpgM8QTu+ovNxAbq24UP5KaZhyhrV+dhGtYNRfgq/9YDarbCcO6hG6xeivMeCA=="
+  "version": "0.1.75",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.75/vertex-collector_0.1.75_amd64.deb",
+  "sha256": "ca432b79a6fe256f32db27142a7b1e0b2dfe27fb762f8b97213a4505aa87ff59",
+  "size": 25331910,
+  "notes": "Tray offers only 'open to finish setup' until setup is done; launch after install opens the window in front",
+  "published": "2026-10-31T06:36:22Z",
+  "signature": "tcprBZfx3vqUgwmyDuOemGvVcmXCDouiNVhiL0yT5mmVwENSV5uKQ4wjW4xHqsXMbRWsf7aXnZQtpjVJn9FCDA=="
 }
