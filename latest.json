@@ -1,9 +1,9 @@
 {
-  "version": "0.1.73",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.73/VertexCollectorSetup.exe",
-  "sha256": "ad65110574f70c2d23584352d785e261fa91fb37d9d5e75321fd06916f166d92",
-  "size": 20724084,
-  "notes": "UI: fixed header and rail, topology zooms on wheel, page body scrolls in main",
-  "published": "2026-10-31T05:27:36Z",
-  "signature": "9B0iTo+Jj/sfzh66mU87L/f9uZfJ2dxFgVM1dLFaQ9VsF8UkhcV6m82Ij6w54+iHDgUK+uYsdbfJqyrrfcQGCA=="
+  "version": "0.1.74",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.74/VertexCollectorSetup.exe",
+  "sha256": "3377a436528d648ce5ce9a957284472996a70c2ae2f67271b155d1ee097838cc",
+  "size": 20728273,
+  "notes": "Live device pane; Advanced WMI applies on tick",
+  "published": "2026-10-31T05:45:21Z",
+  "signature": "yOnxkyj6LFgo1YbvhjiLIm/325WYlpWgtdhR3NLYIJ7YSf0N+Pas1YYrOItg+m7umKnpxqtikCjkQ3I77dvrCA=="
 }
