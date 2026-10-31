@@ -1,9 +1,9 @@
 {
-  "version": "0.1.72",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.72/VertexCollectorSetup.exe",
-  "sha256": "56365c993646dcec711b396882764c2b2e102fbd053dc8cc8bff66e91b5ae955",
-  "size": 20726576,
-  "notes": "Device panel: show protocol toggle errors and link to Integrations when SNMP/WMI is unavailable",
-  "published": "2026-10-31T05:22:22Z",
-  "signature": "ZZQBYq4RSzCjtlK01iHi0LyJQv1Yi1SXoXYeUtDJIwF4yfzEcQUkGjF1zmG+z7Nu0pPQdoDPASMfmd5n+1/rAQ=="
+  "version": "0.1.73",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.73/VertexCollectorSetup.exe",
+  "sha256": "ad65110574f70c2d23584352d785e261fa91fb37d9d5e75321fd06916f166d92",
+  "size": 20724084,
+  "notes": "UI: fixed header and rail, topology zooms on wheel, page body scrolls in main",
+  "published": "2026-10-31T05:27:36Z",
+  "signature": "9B0iTo+Jj/sfzh66mU87L/f9uZfJ2dxFgVM1dLFaQ9VsF8UkhcV6m82Ij6w54+iHDgUK+uYsdbfJqyrrfcQGCA=="
 }
