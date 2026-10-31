@@ -1,9 +1,9 @@
 {
-  "version": "0.1.73",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.73/vertex-collector_0.1.73_amd64.deb",
-  "sha256": "e151ebcb5e849234d4ea005f9d467a94d5a10702bcfcfac4503a8c37ad441561",
-  "size": 25328818,
-  "notes": "UI: fixed header and rail, topology zooms on wheel, page body scrolls in main",
-  "published": "2026-10-31T05:27:36Z",
-  "signature": "PzjP7ih8iUWbJgvwnAPKbtoCHUAqlvedAdrCE0oK8LgDXrboUwG8LEwb3Xr4PGFi01M/LLmWRHeGetuvG61LCg=="
+  "version": "0.1.74",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.74/vertex-collector_0.1.74_amd64.deb",
+  "sha256": "d01c6e86e29dc108cf88ac090f2893e5227c5237c9e57be13f8a5d6e4eb41885",
+  "size": 25329290,
+  "notes": "Live device pane; Advanced WMI applies on tick",
+  "published": "2026-10-31T05:45:22Z",
+  "signature": "p4T04TXV5TesUkaKhG1g4AXrlpgM8QTu+ovNxAbq24UP5KaZhyhrV+dhGtYNRfgq/9YDarbCcO6hG6xeivMeCA=="
 }
