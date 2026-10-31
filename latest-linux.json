@@ -1,9 +1,9 @@
 {
-  "version": "0.1.76",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.76/vertex-collector_0.1.76_amd64.deb",
-  "sha256": "688b5011b738cf0d678f7bfd873b7617332692d8d092e4b1c9cc3149a679c932",
-  "size": 25330872,
-  "notes": "Tray: rebuild the menu when state changes so finishing setup unlocks it",
-  "published": "2026-10-31T06:56:27Z",
-  "signature": "wdM1uydi4Pftz7B30nMcgau08k9t9Vp3wlBHFjJ/+9uCUSnTORytoLvusg+y4HyCm3BtbZfNQ87pBx7aNVsRBA=="
+  "version": "0.1.80",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.80/vertex-collector_0.1.80_amd64.deb",
+  "sha256": "bfcb563d5aebbcd2e9c343a499d611776cd9d1973e5685293ab39056d9c66cf2",
+  "size": 25339470,
+  "notes": "Topology: stagger wrapped rows by half a cell; trunks leave the parent on the side their devices are, bus levels chosen so no wires cross",
+  "published": "2026-10-31T17:32:24Z",
+  "signature": "LtIXa/7OS1mh3zNsBBOQD4JyCnVRM8GSbmrF49acB54JsQhek4KMTpRpeaTipmDmsNbOmNsmwyHYJORVG9z4Bw=="
 }
