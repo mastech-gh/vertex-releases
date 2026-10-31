@@ -1,9 +1,9 @@
 {
-  "version": "0.1.76",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.76/VertexCollectorSetup.exe",
-  "sha256": "8ca5889cd87c37f7743774ae08656dbefdb32a39fe3dc2d10f248cd3532891c4",
-  "size": 20729774,
-  "notes": "Tray: rebuild the menu when state changes so finishing setup unlocks it",
-  "published": "2026-10-31T06:56:27Z",
-  "signature": "u9TxjuAZ/on0Ua6Qhy3N7dVwLpUv1kn3xVOlL29in3qQGfZ5zhb8rkiI6/5mBBqt73+0Yq0sIV9GAgbSLoGdAg=="
+  "version": "0.1.80",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.80/VertexCollectorSetup.exe",
+  "sha256": "027675254654ab3ac56003fd566350c56e9df2aae6f679a91a14638cec5da661",
+  "size": 20736491,
+  "notes": "Topology: stagger wrapped rows by half a cell; trunks leave the parent on the side their devices are, bus levels chosen so no wires cross",
+  "published": "2026-10-31T17:32:24Z",
+  "signature": "wn87LdOmtfXnTLUiWHB1HvsLS8QP+Agbh4SFEJ5kWwMs5mKU5zMPTsnP230bdBN1lbjB0EZEsc0JmpS0AGr3AQ=="
 }
