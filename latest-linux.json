@@ -1,9 +1,9 @@
 {
-  "version": "0.1.86",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.86/vertex-collector_0.1.86_amd64.deb",
-  "sha256": "6d1d38d5705a602940d53ce406a705578f46baa1d714201b077297341e2e13e5",
-  "size": 25355970,
-  "notes": "Fix Windows test crash: background integration reads are tracked and joined before the database closes",
-  "published": "2026-11-01T03:35:30Z",
-  "signature": "n+pbF5YrQHbcn9ikf5dH4tfDbfn4daSW2+DNCFM8PHfQJIzssHiIkUt1aIkabX9u6LoXP887Ckv+Zf8ofip7BA=="
+  "version": "0.1.87",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.87/vertex-collector_0.1.87_amd64.deb",
+  "sha256": "5034e38fdaeb5c79ca63531733b4a71833eef33c3ef0c8d00f1164fdcd44d624",
+  "size": 25374918,
+  "notes": "Microsoft 365 in the Collector: connect with an admin sign-in, read-only app in the tenant, tenant page",
+  "published": "2026-11-01T04:32:03Z",
+  "signature": "zme7whYI1n0nnqp/tregH9HUlrrtI6V9BB/o+zpTjlCYDN4f12f3COTSwq8Jm5zbgVm7vIm4cB22dWxc45tzCw=="
 }
