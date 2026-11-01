@@ -1,9 +1,9 @@
 {
-  "version": "0.1.87",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.87/vertex-collector_0.1.87_amd64.deb",
-  "sha256": "5034e38fdaeb5c79ca63531733b4a71833eef33c3ef0c8d00f1164fdcd44d624",
-  "size": 25374918,
-  "notes": "Microsoft 365 in the Collector: connect with an admin sign-in, read-only app in the tenant, tenant page",
-  "published": "2026-11-01T04:32:03Z",
-  "signature": "zme7whYI1n0nnqp/tregH9HUlrrtI6V9BB/o+zpTjlCYDN4f12f3COTSwq8Jm5zbgVm7vIm4cB22dWxc45tzCw=="
+  "version": "0.1.88",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.88/vertex-collector_0.1.88_amd64.deb",
+  "sha256": "c4e35dd7fd90dd609b1e662ec7105d1e5a56bdcb0de960862752b8be1860e741",
+  "size": 25384466,
+  "notes": "Live numbers: changes are logged with their cause; changed numbers turn green or red with a change bubble",
+  "published": "2026-11-01T20:43:24Z",
+  "signature": "lBa9z6LbLicg+IvHN/672g1bfQecVh6FGqSht54eYXre5RBeKJj1ICJtnFjoZkfFEkbrM3waoC9Fh1s1VS0FAg=="
 }
