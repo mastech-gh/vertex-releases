@@ -1,9 +1,9 @@
 {
-  "version": "0.1.86",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.86/VertexCollectorSetup.exe",
-  "sha256": "f237781ffa3cead574ae3578e1d45072b30f267b4f02461f80dfa731d7687cf3",
-  "size": 20758325,
-  "notes": "Fix Windows test crash: background integration reads are tracked and joined before the database closes",
-  "published": "2026-11-01T03:35:29Z",
-  "signature": "VsAInCa7d0Xf6In9KRfOnPB5aU4kG9YJ4pJBCvBkGLPB9uC/TW0Ifj8pToJP0TtezYwJGbugFnwOepzHvx6UBQ=="
+  "version": "0.1.87",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.87/VertexCollectorSetup.exe",
+  "sha256": "96498887d1815efe9e22175c1de37fd06a0fcb3644a683754514d774124c910b",
+  "size": 20772502,
+  "notes": "Microsoft 365 in the Collector: connect with an admin sign-in, read-only app in the tenant, tenant page",
+  "published": "2026-11-01T04:32:03Z",
+  "signature": "TcS7QZNusReF2zs1opBO07zfa406N3h3R7gg3X2nbQNIlUgRmQy0HvBQENSuSebrtp4E0p8YGeU9PvmOJvqRAw=="
 }
