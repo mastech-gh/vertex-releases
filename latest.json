@@ -1,9 +1,9 @@
 {
-  "version": "0.1.87",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.87/VertexCollectorSetup.exe",
-  "sha256": "96498887d1815efe9e22175c1de37fd06a0fcb3644a683754514d774124c910b",
-  "size": 20772502,
-  "notes": "Microsoft 365 in the Collector: connect with an admin sign-in, read-only app in the tenant, tenant page",
-  "published": "2026-11-01T04:32:03Z",
-  "signature": "TcS7QZNusReF2zs1opBO07zfa406N3h3R7gg3X2nbQNIlUgRmQy0HvBQENSuSebrtp4E0p8YGeU9PvmOJvqRAw=="
+  "version": "0.1.88",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.88/VertexCollectorSetup.exe",
+  "sha256": "87903733a7631c8ca87752ad8f2564a9b6e8a35396d434f5f2e871519a27204e",
+  "size": 20781960,
+  "notes": "Live numbers: changes are logged with their cause; changed numbers turn green or red with a change bubble",
+  "published": "2026-11-01T20:43:24Z",
+  "signature": "stKVtJXBeul3CdowcjPa2MLikGk1aNEC/ihQ2PZxKIilMo9/7rY/9XD7Bioje4x8vYwmcAZKtqMIiITOgsToAw=="
 }
