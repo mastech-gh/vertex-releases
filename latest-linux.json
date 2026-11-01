@@ -1,9 +1,9 @@
 {
-  "version": "0.1.88",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.88/vertex-collector_0.1.88_amd64.deb",
-  "sha256": "c4e35dd7fd90dd609b1e662ec7105d1e5a56bdcb0de960862752b8be1860e741",
-  "size": 25384466,
-  "notes": "Live numbers: changes are logged with their cause; changed numbers turn green or red with a change bubble",
-  "published": "2026-11-01T20:43:24Z",
-  "signature": "lBa9z6LbLicg+IvHN/672g1bfQecVh6FGqSht54eYXre5RBeKJj1ICJtnFjoZkfFEkbrM3waoC9Fh1s1VS0FAg=="
+  "version": "0.1.89",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.89/vertex-collector_0.1.89_amd64.deb",
+  "sha256": "596bdbf880ef9969f68feadc43c9c93ccbc70a9b4efa621267fa436109b1cf62",
+  "size": 25401998,
+  "notes": "One machine in several subnets is one node with a line to each; DHCP or static for every address, with evidence",
+  "published": "2026-11-01T22:02:57Z",
+  "signature": "2yZvAwoCdb7hd40jt1H+SI6L0KcrX6TgF/WZhJ1mxiZVDaBkDG8L0zQEe95xSBjoTFK2LJo9uBXR6ftA6L3sDg=="
 }
