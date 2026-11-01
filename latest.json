@@ -1,9 +1,9 @@
 {
-  "version": "0.1.80",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.80/VertexCollectorSetup.exe",
-  "sha256": "027675254654ab3ac56003fd566350c56e9df2aae6f679a91a14638cec5da661",
-  "size": 20736491,
-  "notes": "Topology: stagger wrapped rows by half a cell; trunks leave the parent on the side their devices are, bus levels chosen so no wires cross",
-  "published": "2026-10-31T17:32:24Z",
-  "signature": "wn87LdOmtfXnTLUiWHB1HvsLS8QP+Agbh4SFEJ5kWwMs5mKU5zMPTsnP230bdBN1lbjB0EZEsc0JmpS0AGr3AQ=="
+  "version": "0.1.86",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.86/VertexCollectorSetup.exe",
+  "sha256": "f237781ffa3cead574ae3578e1d45072b30f267b4f02461f80dfa731d7687cf3",
+  "size": 20758325,
+  "notes": "Fix Windows test crash: background integration reads are tracked and joined before the database closes",
+  "published": "2026-11-01T03:35:29Z",
+  "signature": "VsAInCa7d0Xf6In9KRfOnPB5aU4kG9YJ4pJBCvBkGLPB9uC/TW0Ifj8pToJP0TtezYwJGbugFnwOepzHvx6UBQ=="
 }
