@@ -1,9 +1,9 @@
 {
-  "version": "0.1.80",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.80/vertex-collector_0.1.80_amd64.deb",
-  "sha256": "bfcb563d5aebbcd2e9c343a499d611776cd9d1973e5685293ab39056d9c66cf2",
-  "size": 25339470,
-  "notes": "Topology: stagger wrapped rows by half a cell; trunks leave the parent on the side their devices are, bus levels chosen so no wires cross",
-  "published": "2026-10-31T17:32:24Z",
-  "signature": "LtIXa/7OS1mh3zNsBBOQD4JyCnVRM8GSbmrF49acB54JsQhek4KMTpRpeaTipmDmsNbOmNsmwyHYJORVG9z4Bw=="
+  "version": "0.1.86",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.86/vertex-collector_0.1.86_amd64.deb",
+  "sha256": "6d1d38d5705a602940d53ce406a705578f46baa1d714201b077297341e2e13e5",
+  "size": 25355970,
+  "notes": "Fix Windows test crash: background integration reads are tracked and joined before the database closes",
+  "published": "2026-11-01T03:35:30Z",
+  "signature": "n+pbF5YrQHbcn9ikf5dH4tfDbfn4daSW2+DNCFM8PHfQJIzssHiIkUt1aIkabX9u6LoXP887Ckv+Zf8ofip7BA=="
 }
