@@ -1,9 +1,9 @@
 {
-  "version": "0.1.89",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.89/VertexCollectorSetup.exe",
-  "sha256": "29446f67e0266448b3a84f9d9165f9ba4391e58acb2394832a7595c4910b2fb4",
-  "size": 20799201,
-  "notes": "One machine in several subnets is one node with a line to each; DHCP or static for every address, with evidence",
-  "published": "2026-11-01T22:02:57Z",
-  "signature": "73SFKG/Vkv32TqRg/pcGaySyQ6Ue0VoyZ5SRQefSH1jb8Z2sA4wXm1+yu0yzbvmsNE2wWBPuzqF/BbQCALrsDA=="
+  "version": "0.1.90",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.90/VertexCollectorSetup.exe",
+  "sha256": "e481da33a21023f1dc9c7c8d709c49a7dd4d4a030ebe8f5b2da3f5a2866f52e9",
+  "size": 20799075,
+  "notes": "Topology: a machine in several subnets sits centered between them even when the subnets are in different branches",
+  "published": "2026-11-01T23:57:00Z",
+  "signature": "DmtT7icyp1pBQJybzQNW4oRA1ouvJu0jgW4HNlKBZYRuZEjtEajO5uU/5lRDGrNEiDPl/fUSaOFEMEGH2lG5AQ=="
 }
