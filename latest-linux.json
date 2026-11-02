@@ -1,9 +1,9 @@
 {
-  "version": "0.1.98",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.98/vertex-collector_0.1.98_amd64.deb",
-  "sha256": "683bd5d214f8a30833653ba49bd552c72d75eb7b592a97b4ed2a2e7b2df10844",
-  "size": 25416480,
-  "notes": "The map folds away on every page except Subnets and Devices",
-  "published": "2026-11-02T05:15:53Z",
-  "signature": "lc3uK6NkOVK2mtpyyWCnGplnXtOIsMeAC/KacdGxSkhlI6tQjsu0Wjt9gg6BOU//USL6e/QrjhbvZTWucBrzAg=="
+  "version": "0.1.99",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.99/vertex-collector_0.1.99_amd64.deb",
+  "sha256": "0384b74ee6a7e02022e4424f960221e4b8143ee7ebdf9f6d332ee884c27f7d69",
+  "size": 25415344,
+  "notes": "No vendor named in the DHCP/static note or the run's coverage list unless that integration is on",
+  "published": "2026-11-02T05:19:55Z",
+  "signature": "fxI1XDfzuDOVXNZEKhUqs+0cYfGpgTBJPFCcYP0Fxvll5yZ9kpWd0CdCKXubQz9dGvoC/VsYP+F8x46kVC03Cg=="
 }
