@@ -1,9 +1,9 @@
 {
-  "version": "0.1.102",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.102/VertexCollectorSetup.exe",
-  "sha256": "f4b49b680ee30543d5939ac2e5b6cd506c874d6d6d835849a020b914a7ce139e",
-  "size": 20816844,
-  "notes": "Change marker glyph is dark on the brighter dark-mode colors",
-  "published": "2026-11-02T06:02:24Z",
-  "signature": "0CFXQb7lWiKp448L9UYUNqwMLP9LK44Rl9OVa0A/wDU5md4/uVd1Tm2zhBU6sGb+OdxnQHIhh0JohNuzerutAw=="
+  "version": "0.1.103",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.103/VertexCollectorSetup.exe",
+  "sha256": "d9c16524a69317ab4ebfc83f7550551afe5edd636c1599284c831f28a1330458",
+  "size": 20817864,
+  "notes": "Connections: networks are listed apart from devices, as routes, with the reason",
+  "published": "2026-11-02T06:08:01Z",
+  "signature": "SPp/dl87CnVE3iKqyL+Hk8a3SKJl11lpC+DzZMzjYBr6TD2+n/uEss2WJpWm4aBcB5cf3QgP4MgMYUfYKa8hBQ=="
 }
