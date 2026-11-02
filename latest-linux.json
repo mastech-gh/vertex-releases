@@ -1,9 +1,9 @@
 {
-  "version": "0.1.91",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.91/vertex-collector_0.1.91_amd64.deb",
-  "sha256": "d3d18051dd1a9aac9010a5c0fbecf614f71b860ab9f8d0b7d553d725e52e014e",
-  "size": 25407036,
-  "notes": "Connections on every device, each extra address drawn the way it is connected, refresh in place, mark changes read, fold the map",
-  "published": "2026-11-02T00:48:56Z",
-  "signature": "GifXTPZu3ZcCiaOPpzs/EPedKSRim247sHQ36fnDisHq2Y+umeWIckE65y9Tm6vaoHl1gFY2JGGDk0nFFc1sCQ=="
+  "version": "0.1.92",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.92/vertex-collector_0.1.92_amd64.deb",
+  "sha256": "b3dcc14adc8d2955f8591f56d429694ebb886f3e327af01a5819ad28a96e7be1",
+  "size": 25408318,
+  "notes": "Topology: the Wi-Fi marker on a multi-connection machine sits on its line, not floating between the two ends",
+  "published": "2026-11-02T01:12:46Z",
+  "signature": "06P8+e9iIx/zO6ty9XihYQ9Mtdy1GVGtIlT6r/ocCxwkhwhnfN35MhQy/c1pLR/A7MZBRhx6pDzf8dZS9cEFBw=="
 }
