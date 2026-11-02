@@ -1,9 +1,9 @@
 {
-  "version": "0.1.99",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.99/VertexCollectorSetup.exe",
-  "sha256": "23747389a5f85d8a0743c9eae6b3d27a5afd290ae3b727b438da8a03d2abc968",
-  "size": 20809568,
-  "notes": "No vendor named in the DHCP/static note or the run's coverage list unless that integration is on",
-  "published": "2026-11-02T05:19:55Z",
-  "signature": "DM5BEm5T9iUFyVhmyQD/F57110dO3TQO/yP+F0H7KNWvQTcQtrflhiqBuDm8EmdpQqs8iY/oDDy5U1sTRfNzAQ=="
+  "version": "0.1.100",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.100/VertexCollectorSetup.exe",
+  "sha256": "5116a33d3b681412a31e92187687dd3c4a31986bd4090d64f699acf0264b2d47",
+  "size": 20819068,
+  "notes": "Integration tabs get icons: Vertex's own category icons, with a slot for approved official logos",
+  "published": "2026-11-02T05:35:27Z",
+  "signature": "5zGzZ3ZVOfRMmbJ1389VuymHaWrc73/BKXYRdWc87fNaQKTqbtUSstTwYZCNJbL9gcAZoLGiW1gbXW2y3i2yBg=="
 }
