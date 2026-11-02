@@ -1,9 +1,9 @@
 {
-  "version": "0.1.101",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.101/vertex-collector_0.1.101_amd64.deb",
-  "sha256": "2f7fef5deb2fcfd882e8d40cd3ab4129cd20c61a6b7930e23785bcce0dfc0e8f",
-  "size": 25418000,
-  "notes": "Collector uses the brand palette, and every status and changed-number color passes contrast",
-  "published": "2026-11-02T05:58:19Z",
-  "signature": "taIqw82fKbF4t5CGRh9PqNMkQmqcvEaU6+fkfB46N4qlKPKk6lOfeYxBpFm747MQ7By53v2HrJbckEHHxqDdBg=="
+  "version": "0.1.102",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.102/vertex-collector_0.1.102_amd64.deb",
+  "sha256": "86277ec8b525ef46b085e64387d4a50ce2b5bea4978c95b31dcb51c58d74e886",
+  "size": 25417572,
+  "notes": "Change marker glyph is dark on the brighter dark-mode colors",
+  "published": "2026-11-02T06:02:25Z",
+  "signature": "8dRBRarVHQEEhK2rnPb7y83GR3QWc0BKK/h7YDMQ9nTGwFM2Z22kS8Lfl2ByJ2g47YQxVCMDaS2eD3jXwpmBBA=="
 }
