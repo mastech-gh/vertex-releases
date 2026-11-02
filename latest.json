@@ -1,9 +1,9 @@
 {
-  "version": "0.1.93",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.93/VertexCollectorSetup.exe",
-  "sha256": "babbb8f14cdb56ef63bcc365283dc20228a6bea72b347d014e043687ab84f09d",
-  "size": 20806534,
-  "notes": "Tray: Shut down now really shuts Vertex down, and says so when it cannot",
-  "published": "2026-11-02T01:17:17Z",
-  "signature": "0kUjjFUg9DHbjEsIsBYmFzRrMekwI1snKFeFS3x+ti3qEKrWKrb4TnWpdxfPiFMS6TW7R+1VzmZHVvPamepmBg=="
+  "version": "0.1.94",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.94/VertexCollectorSetup.exe",
+  "sha256": "17b46dfe0ba48529b280af95926fe7faa387e7a7eff121a106c77c0a1adbf40d",
+  "size": 20815959,
+  "notes": "Device list: one row per machine, with every address it answers on",
+  "published": "2026-11-02T03:28:27Z",
+  "signature": "kff90WQIVQltLELxG1o4MIlpsGRrUpae++jVkSlDm/Koq9IM8UhE9Gcfzh8lQR9YBxcrEh203Vxdu9fBjMIoCQ=="
 }
