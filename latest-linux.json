@@ -1,9 +1,9 @@
 {
-  "version": "0.1.96",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.96/vertex-collector_0.1.96_amd64.deb",
-  "sha256": "aadb97255ad82c9c62445b620cd677b2ce24414f725a4f1a64798edabc98ec2d",
-  "size": 25414546,
-  "notes": "Device provenance is vendor agnostic: no vendor named unless that vendor is connected",
-  "published": "2026-11-02T04:14:00Z",
-  "signature": "gQaOufdmQKmlWNxhaAaV7BnVIh7W7CbS35Y9Oo/Mxvzbo6oM5AiF8UuhYTjJSGxrB9Hj6A/loFmnzC1XJxANCw=="
+  "version": "0.1.97",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.97/vertex-collector_0.1.97_amd64.deb",
+  "sha256": "a1683c0c7e113cb97888ee390a848345e607b455d7327bf41f25024f03ed4d54",
+  "size": 25415938,
+  "notes": "Vendors are only named while their integration is on",
+  "published": "2026-11-02T04:27:45Z",
+  "signature": "7bFrUqqGg66rTMDof4XvMCSWB6MuDTNcahRLiAJw2XK1qKwrDDYRQZ1D8wEKP7WgzQdlnNfdCQ6bwHroX6/6Cg=="
 }
