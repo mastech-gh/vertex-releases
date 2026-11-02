@@ -1,9 +1,9 @@
 {
-  "version": "0.1.91",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.91/VertexCollectorSetup.exe",
-  "sha256": "125144c8dfc44bdda6a331f6f0079eb91f47fa28d4c07a5904aff6c7670b3f78",
-  "size": 20806344,
-  "notes": "Connections on every device, each extra address drawn the way it is connected, refresh in place, mark changes read, fold the map",
-  "published": "2026-11-02T00:48:56Z",
-  "signature": "/2BiF+rGFD8b7qtHdR75j3Hijf/H1RXBHfLsOzomrDTWWyRySDppe3FQlO/RK9XOjeKq6SdAwuwhDYvvUvWzBg=="
+  "version": "0.1.92",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.92/VertexCollectorSetup.exe",
+  "sha256": "6fd2d28f57e33c605787e057c10d4c1f93002cbe4bb205cb924305e6b7942dea",
+  "size": 20808520,
+  "notes": "Topology: the Wi-Fi marker on a multi-connection machine sits on its line, not floating between the two ends",
+  "published": "2026-11-02T01:12:45Z",
+  "signature": "TgKEagtdVgCJykN4psnYGDEUGdiZycxIYt/Y7oixpVhjWamQqnn6BBsR8aUbw9UuGYa84oEXmb3sqYvhprcIBg=="
 }
