@@ -1,9 +1,9 @@
 {
-  "version": "0.1.94",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.94/vertex-collector_0.1.94_amd64.deb",
-  "sha256": "cfe511893cd21aed3f9f662234475e4d525dcc3793c8e4c5ab98ec8e3dc91514",
-  "size": 25414644,
-  "notes": "Device list: one row per machine, with every address it answers on",
-  "published": "2026-11-02T03:28:27Z",
-  "signature": "9vGnyyN8Dvu2dMLYYlbAah/TI8Lu+Hslfxsj8HhfG46SlNqZyTPUoCZGnuMyj3wgemvk4C1Ec/1E0g2+uZb3Cg=="
+  "version": "0.1.95",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.95/vertex-collector_0.1.95_amd64.deb",
+  "sha256": "b06fd7caaf9e3bf2be08972d46dbadf600828b7d1bf9a69a81a0f7f6764d9bab",
+  "size": 25413388,
+  "notes": "Where this device came from: bullet points, with address lists as sub-bullets",
+  "published": "2026-11-02T03:45:00Z",
+  "signature": "/qOSOATVceI1ULaxNFji+JcC/Q/fOSGvjklJNOEZCUg257zlgfZvVmt8eX/IiAbBWhwT5Q6VPBV8MZ8vf1JnCQ=="
 }
