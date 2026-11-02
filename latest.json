@@ -1,9 +1,9 @@
 {
-  "version": "0.1.94",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.94/VertexCollectorSetup.exe",
-  "sha256": "17b46dfe0ba48529b280af95926fe7faa387e7a7eff121a106c77c0a1adbf40d",
-  "size": 20815959,
-  "notes": "Device list: one row per machine, with every address it answers on",
-  "published": "2026-11-02T03:28:27Z",
-  "signature": "kff90WQIVQltLELxG1o4MIlpsGRrUpae++jVkSlDm/Koq9IM8UhE9Gcfzh8lQR9YBxcrEh203Vxdu9fBjMIoCQ=="
+  "version": "0.1.95",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.95/VertexCollectorSetup.exe",
+  "sha256": "1b955827c131ddc0640508af657c7150e71916ccec384c99af3e518e43a3d079",
+  "size": 20811609,
+  "notes": "Where this device came from: bullet points, with address lists as sub-bullets",
+  "published": "2026-11-02T03:45:00Z",
+  "signature": "ga2Fhcyz38JPfXJ8biTuMNB1wJEeJW3JnDk69hz9w3V4amvK0MwzNcN4MIPDuQnZACEDyug8gTNHmadJFbqwCQ=="
 }
