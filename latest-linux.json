@@ -1,9 +1,9 @@
 {
-  "version": "0.1.100",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.100/vertex-collector_0.1.100_amd64.deb",
-  "sha256": "96a59f1132362ddd79d78ad9a8db463f70bc8ba39b8ec2fceae6e8cc08247a35",
-  "size": 25417438,
-  "notes": "Integration tabs get icons: Vertex's own category icons, with a slot for approved official logos",
-  "published": "2026-11-02T05:35:27Z",
-  "signature": "teFsHW19xC/NNJN6yIG/lnFEBCzU1eaADNZg6DmXUtS0cI+DVxQVrqZ8isyBge2Ot/dBcRGbkM7TqgeRG8uuBQ=="
+  "version": "0.1.101",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.101/vertex-collector_0.1.101_amd64.deb",
+  "sha256": "2f7fef5deb2fcfd882e8d40cd3ab4129cd20c61a6b7930e23785bcce0dfc0e8f",
+  "size": 25418000,
+  "notes": "Collector uses the brand palette, and every status and changed-number color passes contrast",
+  "published": "2026-11-02T05:58:19Z",
+  "signature": "taIqw82fKbF4t5CGRh9PqNMkQmqcvEaU6+fkfB46N4qlKPKk6lOfeYxBpFm747MQ7By53v2HrJbckEHHxqDdBg=="
 }
