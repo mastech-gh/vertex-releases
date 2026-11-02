@@ -1,9 +1,9 @@
 {
-  "version": "0.1.103",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.103/vertex-collector_0.1.103_amd64.deb",
-  "sha256": "77a49bdf1714f9008f5f4863bcf4c8ac456330ecc8e94ab84d89ff8235898372",
-  "size": 25417376,
-  "notes": "Connections: networks are listed apart from devices, as routes, with the reason",
-  "published": "2026-11-02T06:08:01Z",
-  "signature": "/pw5kMSoFb0HBpzKlSTBjgdus9Y+tdnkCg98M7P7IvNhFxBP3rJijT6M2QMUR6d0EPet4IzWevAVM6UrO2BiCg=="
+  "version": "0.1.104",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.104/vertex-collector_0.1.104_amd64.deb",
+  "sha256": "d1250f55f81f94acf71015bca8ffd02b785f578fd9f692b0778ad37f315f4f57",
+  "size": 25534396,
+  "notes": "Brand pass: the Vertex mark is gold everywhere, fonts ship with the Collector, colors come from tokens",
+  "published": "2026-11-02T06:21:47Z",
+  "signature": "cDQuLQkV+CEEL00KJ/HBmu2o5oxJrvUO24rAQXG16w04x2iEHl50dMAcDgMMKddgCOtrJ/pnFYvWEVPatopiAA=="
 }
