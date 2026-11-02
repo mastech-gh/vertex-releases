@@ -1,9 +1,9 @@
 {
-  "version": "0.1.90",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.90/VertexCollectorSetup.exe",
-  "sha256": "e481da33a21023f1dc9c7c8d709c49a7dd4d4a030ebe8f5b2da3f5a2866f52e9",
-  "size": 20799075,
-  "notes": "Topology: a machine in several subnets sits centered between them even when the subnets are in different branches",
-  "published": "2026-11-01T23:57:00Z",
-  "signature": "DmtT7icyp1pBQJybzQNW4oRA1ouvJu0jgW4HNlKBZYRuZEjtEajO5uU/5lRDGrNEiDPl/fUSaOFEMEGH2lG5AQ=="
+  "version": "0.1.91",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.91/VertexCollectorSetup.exe",
+  "sha256": "125144c8dfc44bdda6a331f6f0079eb91f47fa28d4c07a5904aff6c7670b3f78",
+  "size": 20806344,
+  "notes": "Connections on every device, each extra address drawn the way it is connected, refresh in place, mark changes read, fold the map",
+  "published": "2026-11-02T00:48:56Z",
+  "signature": "/2BiF+rGFD8b7qtHdR75j3Hijf/H1RXBHfLsOzomrDTWWyRySDppe3FQlO/RK9XOjeKq6SdAwuwhDYvvUvWzBg=="
 }
