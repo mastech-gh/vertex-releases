@@ -1,9 +1,9 @@
 {
-  "version": "0.1.105",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.105/VertexCollectorSetup.exe",
-  "sha256": "b54c6a7f115507d34adb9541078b9798d494f8977a786a77485a2c6bb128eda8",
-  "size": 20939404,
-  "notes": "Note how the uninstaller gets its artwork; fix a stale logo comment",
-  "published": "2026-11-02T06:33:32Z",
-  "signature": "0iuPcOTIHFu2wMevuHunzNdXQAnRxv1rRQZDXr/8OmCHRS53Q9P8zk3EHT9MOQM7E/eosLT0qqGNjB7VfU8BBg=="
+  "version": "0.1.106",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.106/VertexCollectorSetup.exe",
+  "sha256": "dbd1beaa75827e3f1df012e8039cdbe23eccb44af19e580bb54f65ed8dedf642",
+  "size": 20945174,
+  "notes": "Shut down works without depending on the tray dialog; the window and icon close themselves; log every step",
+  "published": "2026-11-02T06:47:55Z",
+  "signature": "tAF25efwRE9+0deE2sf3l5DMfCMXVpZGz4Pla5zJQL24DEsUUagkCTONdJqnCD5DRqt02B9zK1VZdxHcJXLUAw=="
 }
