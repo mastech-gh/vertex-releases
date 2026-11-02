@@ -1,9 +1,9 @@
 {
-  "version": "0.1.104",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.104/VertexCollectorSetup.exe",
-  "sha256": "7a21023278940adfe07009b81d90bfda4a9634051d30a4632ef8f8afaca3c445",
-  "size": 20941375,
-  "notes": "Brand pass: the Vertex mark is gold everywhere, fonts ship with the Collector, colors come from tokens",
-  "published": "2026-11-02T06:21:47Z",
-  "signature": "yPQGBufE8uM4dw0aCTQMSu3lqwp9/TyDmR7mk9nREmYI7EftMsUNRMY+LIk2W3ZCbgxIBNEw37lKxgfbGkfVAA=="
+  "version": "0.1.105",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.105/VertexCollectorSetup.exe",
+  "sha256": "b54c6a7f115507d34adb9541078b9798d494f8977a786a77485a2c6bb128eda8",
+  "size": 20939404,
+  "notes": "Note how the uninstaller gets its artwork; fix a stale logo comment",
+  "published": "2026-11-02T06:33:32Z",
+  "signature": "0iuPcOTIHFu2wMevuHunzNdXQAnRxv1rRQZDXr/8OmCHRS53Q9P8zk3EHT9MOQM7E/eosLT0qqGNjB7VfU8BBg=="
 }
