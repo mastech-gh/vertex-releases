@@ -1,9 +1,9 @@
 {
-  "version": "0.1.96",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.96/VertexCollectorSetup.exe",
-  "sha256": "b1753d5cb5f5b62437ba5d76d48cb5a45a801561db1f8cf7d8a6d5759a800b94",
-  "size": 20812487,
-  "notes": "Device provenance is vendor agnostic: no vendor named unless that vendor is connected",
-  "published": "2026-11-02T04:13:59Z",
-  "signature": "5jrKq85RvfFMmRoipFJNoF1Bj0yfpVanTt4uqg3f6qkTE3WKvFR41CBRGr1mnO3SktgfE8rDtqQlEqKL9i87CA=="
+  "version": "0.1.97",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.97/VertexCollectorSetup.exe",
+  "sha256": "7f68160639d34f4fc548be937636631736e4e208118f08eb4eaa0e11797c5252",
+  "size": 20817429,
+  "notes": "Vendors are only named while their integration is on",
+  "published": "2026-11-02T04:27:45Z",
+  "signature": "O1LEkE1nKjUbbQIIOKEomaqVmbyFdJ0wd6yqopF1OKfvI3kbroJIbwnLLm3RAmw7kJQY8/QAb0Iz+V5H8v+3DA=="
 }
