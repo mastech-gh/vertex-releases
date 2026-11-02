@@ -1,9 +1,9 @@
 {
-  "version": "0.1.105",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.105/vertex-collector_0.1.105_amd64.deb",
-  "sha256": "8afa245ffd9b632944f561aa21b19dae28a8496d11ca6ca1ad07037fd529b99f",
-  "size": 25534676,
-  "notes": "Note how the uninstaller gets its artwork; fix a stale logo comment",
-  "published": "2026-11-02T06:33:33Z",
-  "signature": "ewQ1H/tjBHWsImDvmcFlE8eW9hE7d6XL7hc9weuYQtwhvSm5lW5QUKw+Q5ga4xpGbK2L9wIEhYISQeWtbo8pAA=="
+  "version": "0.1.106",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.106/vertex-collector_0.1.106_amd64.deb",
+  "sha256": "cf05c2eaf5a328c283fc512da6e58cfa4f35c67ea51fc4e0168d003eb0798aa2",
+  "size": 25536660,
+  "notes": "Shut down works without depending on the tray dialog; the window and icon close themselves; log every step",
+  "published": "2026-11-02T06:47:55Z",
+  "signature": "QrBa8wi8Z4fF/j/tQ/0JLSSPeWYaOcX6SmruMrD/fKWe04MurE1uDGoO2abqthzVkpA3EzA9DsAapN0oziVlAw=="
 }
