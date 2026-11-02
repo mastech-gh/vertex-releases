@@ -1,9 +1,9 @@
 {
-  "version": "0.1.102",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.102/vertex-collector_0.1.102_amd64.deb",
-  "sha256": "86277ec8b525ef46b085e64387d4a50ce2b5bea4978c95b31dcb51c58d74e886",
-  "size": 25417572,
-  "notes": "Change marker glyph is dark on the brighter dark-mode colors",
-  "published": "2026-11-02T06:02:25Z",
-  "signature": "8dRBRarVHQEEhK2rnPb7y83GR3QWc0BKK/h7YDMQ9nTGwFM2Z22kS8Lfl2ByJ2g47YQxVCMDaS2eD3jXwpmBBA=="
+  "version": "0.1.103",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.103/vertex-collector_0.1.103_amd64.deb",
+  "sha256": "77a49bdf1714f9008f5f4863bcf4c8ac456330ecc8e94ab84d89ff8235898372",
+  "size": 25417376,
+  "notes": "Connections: networks are listed apart from devices, as routes, with the reason",
+  "published": "2026-11-02T06:08:01Z",
+  "signature": "/pw5kMSoFb0HBpzKlSTBjgdus9Y+tdnkCg98M7P7IvNhFxBP3rJijT6M2QMUR6d0EPet4IzWevAVM6UrO2BiCg=="
 }
