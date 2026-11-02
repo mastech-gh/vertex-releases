@@ -1,9 +1,9 @@
 {
-  "version": "0.1.97",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.97/vertex-collector_0.1.97_amd64.deb",
-  "sha256": "a1683c0c7e113cb97888ee390a848345e607b455d7327bf41f25024f03ed4d54",
-  "size": 25415938,
-  "notes": "Vendors are only named while their integration is on",
-  "published": "2026-11-02T04:27:45Z",
-  "signature": "7bFrUqqGg66rTMDof4XvMCSWB6MuDTNcahRLiAJw2XK1qKwrDDYRQZ1D8wEKP7WgzQdlnNfdCQ6bwHroX6/6Cg=="
+  "version": "0.1.98",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.98/vertex-collector_0.1.98_amd64.deb",
+  "sha256": "683bd5d214f8a30833653ba49bd552c72d75eb7b592a97b4ed2a2e7b2df10844",
+  "size": 25416480,
+  "notes": "The map folds away on every page except Subnets and Devices",
+  "published": "2026-11-02T05:15:53Z",
+  "signature": "lc3uK6NkOVK2mtpyyWCnGplnXtOIsMeAC/KacdGxSkhlI6tQjsu0Wjt9gg6BOU//USL6e/QrjhbvZTWucBrzAg=="
 }
