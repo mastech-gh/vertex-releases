@@ -1,9 +1,9 @@
 {
-  "version": "0.1.92",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.92/vertex-collector_0.1.92_amd64.deb",
-  "sha256": "b3dcc14adc8d2955f8591f56d429694ebb886f3e327af01a5819ad28a96e7be1",
-  "size": 25408318,
-  "notes": "Topology: the Wi-Fi marker on a multi-connection machine sits on its line, not floating between the two ends",
-  "published": "2026-11-02T01:12:46Z",
-  "signature": "06P8+e9iIx/zO6ty9XihYQ9Mtdy1GVGtIlT6r/ocCxwkhwhnfN35MhQy/c1pLR/A7MZBRhx6pDzf8dZS9cEFBw=="
+  "version": "0.1.93",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.93/vertex-collector_0.1.93_amd64.deb",
+  "sha256": "2343adbbddd659b52fca6ba437547640fe95a6f008420ae8882ad0b531ddac21",
+  "size": 25411342,
+  "notes": "Tray: Shut down now really shuts Vertex down, and says so when it cannot",
+  "published": "2026-11-02T01:17:17Z",
+  "signature": "i7x/GNJ8n5Z0niguSZ8W7DuLugny1gZ0m095xWbqQahxLtferIHLqs+N+vP0zWzSVIvf1aoSgIecKy4E4pFnAA=="
 }
