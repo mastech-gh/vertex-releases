@@ -1,9 +1,9 @@
 {
-  "version": "0.1.98",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.98/VertexCollectorSetup.exe",
-  "sha256": "b7b7ac1b54df6510cb54a49b7b09e8747b70d024f9c71af98aca7c05239e8a05",
-  "size": 20815852,
-  "notes": "The map folds away on every page except Subnets and Devices",
-  "published": "2026-11-02T05:15:53Z",
-  "signature": "vjWP/Yc8yu6K4GQrG/l6VG5KK+D/8p2j34Ticq6qI4KUEGMIRweUWRQLpqSc0aIGv8WkkmhKId0pJ0DyNB6bBw=="
+  "version": "0.1.99",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.99/VertexCollectorSetup.exe",
+  "sha256": "23747389a5f85d8a0743c9eae6b3d27a5afd290ae3b727b438da8a03d2abc968",
+  "size": 20809568,
+  "notes": "No vendor named in the DHCP/static note or the run's coverage list unless that integration is on",
+  "published": "2026-11-02T05:19:55Z",
+  "signature": "DM5BEm5T9iUFyVhmyQD/F57110dO3TQO/yP+F0H7KNWvQTcQtrflhiqBuDm8EmdpQqs8iY/oDDy5U1sTRfNzAQ=="
 }
