@@ -1,9 +1,9 @@
 {
-  "version": "0.1.92",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.92/VertexCollectorSetup.exe",
-  "sha256": "6fd2d28f57e33c605787e057c10d4c1f93002cbe4bb205cb924305e6b7942dea",
-  "size": 20808520,
-  "notes": "Topology: the Wi-Fi marker on a multi-connection machine sits on its line, not floating between the two ends",
-  "published": "2026-11-02T01:12:45Z",
-  "signature": "TgKEagtdVgCJykN4psnYGDEUGdiZycxIYt/Y7oixpVhjWamQqnn6BBsR8aUbw9UuGYa84oEXmb3sqYvhprcIBg=="
+  "version": "0.1.93",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.93/VertexCollectorSetup.exe",
+  "sha256": "babbb8f14cdb56ef63bcc365283dc20228a6bea72b347d014e043687ab84f09d",
+  "size": 20806534,
+  "notes": "Tray: Shut down now really shuts Vertex down, and says so when it cannot",
+  "published": "2026-11-02T01:17:17Z",
+  "signature": "0kUjjFUg9DHbjEsIsBYmFzRrMekwI1snKFeFS3x+ti3qEKrWKrb4TnWpdxfPiFMS6TW7R+1VzmZHVvPamepmBg=="
 }
