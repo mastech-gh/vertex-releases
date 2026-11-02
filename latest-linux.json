@@ -1,9 +1,9 @@
 {
-  "version": "0.1.93",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.93/vertex-collector_0.1.93_amd64.deb",
-  "sha256": "2343adbbddd659b52fca6ba437547640fe95a6f008420ae8882ad0b531ddac21",
-  "size": 25411342,
-  "notes": "Tray: Shut down now really shuts Vertex down, and says so when it cannot",
-  "published": "2026-11-02T01:17:17Z",
-  "signature": "i7x/GNJ8n5Z0niguSZ8W7DuLugny1gZ0m095xWbqQahxLtferIHLqs+N+vP0zWzSVIvf1aoSgIecKy4E4pFnAA=="
+  "version": "0.1.94",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.94/vertex-collector_0.1.94_amd64.deb",
+  "sha256": "cfe511893cd21aed3f9f662234475e4d525dcc3793c8e4c5ab98ec8e3dc91514",
+  "size": 25414644,
+  "notes": "Device list: one row per machine, with every address it answers on",
+  "published": "2026-11-02T03:28:27Z",
+  "signature": "9vGnyyN8Dvu2dMLYYlbAah/TI8Lu+Hslfxsj8HhfG46SlNqZyTPUoCZGnuMyj3wgemvk4C1Ec/1E0g2+uZb3Cg=="
 }
