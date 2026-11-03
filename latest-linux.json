@@ -1,9 +1,9 @@
 {
-  "version": "0.1.108",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.108/vertex-collector_0.1.108_amd64.deb",
-  "sha256": "623103092bbbadb99704df12fff71c9264ad0554fb29d25db5368b7422fbbbbf",
-  "size": 25538342,
-  "notes": "License test clock starts at the real present: the engine stamps first launch with real time, so a fixed past date stopped locking after Nov 3",
-  "published": "2026-11-03T22:18:12Z",
-  "signature": "yPn6S1McFMW7ysawVjMuKCjVlCuZD1zMAkZjvIxylIts4err6Dz10IFlNQ8DgDb3X/fbUyyhBrg+A7Suk3KOAw=="
+  "version": "0.1.109",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.109/vertex-collector_0.1.109_amd64.deb",
+  "sha256": "54b1eecf58d751e3c57b74d87ab7fcb8efe3f69a1752f8666c3da4c4808fcee5",
+  "size": 25556492,
+  "notes": "Data views: Devices, Topology, Findings and Changes as their own pages with one device side panel",
+  "published": "2026-11-03T22:58:46Z",
+  "signature": "hkK3wR79CanGK7XLrG4SbN74Ktp5D1ZqXEzBnVO55rQYN+xm9CBKdfRdcerKF9h9rDr3XFgRyJpRYqaxI9KKAg=="
 }
