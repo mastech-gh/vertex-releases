@@ -1,9 +1,9 @@
 {
-  "version": "0.1.108",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.108/VertexCollectorSetup.exe",
-  "sha256": "01e47dfa0666143d969f8d7dc5c59a0afe3a7425e4d301b0db07e086d4e06adf",
-  "size": 20946306,
-  "notes": "License test clock starts at the real present: the engine stamps first launch with real time, so a fixed past date stopped locking after Nov 3",
-  "published": "2026-11-03T22:18:11Z",
-  "signature": "SdyT8DCi7XtBi3i4YQNRXXI5ZZPnffhlOIb3MXSTx8s/Hg+qTls89KZvteeiVnchJpZyk7e23A5CFWx0EjttBg=="
+  "version": "0.1.109",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.109/VertexCollectorSetup.exe",
+  "sha256": "daf59a115734216c7e977d5281b509e673cedf76409b1bf7c6e9b3d042c1b189",
+  "size": 20957811,
+  "notes": "Data views: Devices, Topology, Findings and Changes as their own pages with one device side panel",
+  "published": "2026-11-03T22:58:46Z",
+  "signature": "RIDPmtPRrg3RTdH1e4VjlHcwhEtvnSGeSwCsSIOvqk/irgGJfMZfcEBxxdFWtt67r3FUiiwYfLLnHva14j57DQ=="
 }
