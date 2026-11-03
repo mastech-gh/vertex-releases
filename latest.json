@@ -1,9 +1,9 @@
 {
-  "version": "0.1.106",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.106/VertexCollectorSetup.exe",
-  "sha256": "dbd1beaa75827e3f1df012e8039cdbe23eccb44af19e580bb54f65ed8dedf642",
-  "size": 20945174,
-  "notes": "Shut down works without depending on the tray dialog; the window and icon close themselves; log every step",
-  "published": "2026-11-02T06:47:55Z",
-  "signature": "tAF25efwRE9+0deE2sf3l5DMfCMXVpZGz4Pla5zJQL24DEsUUagkCTONdJqnCD5DRqt02B9zK1VZdxHcJXLUAw=="
+  "version": "0.1.108",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.108/VertexCollectorSetup.exe",
+  "sha256": "01e47dfa0666143d969f8d7dc5c59a0afe3a7425e4d301b0db07e086d4e06adf",
+  "size": 20946306,
+  "notes": "License test clock starts at the real present: the engine stamps first launch with real time, so a fixed past date stopped locking after Nov 3",
+  "published": "2026-11-03T22:18:11Z",
+  "signature": "SdyT8DCi7XtBi3i4YQNRXXI5ZZPnffhlOIb3MXSTx8s/Hg+qTls89KZvteeiVnchJpZyk7e23A5CFWx0EjttBg=="
 }
