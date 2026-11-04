@@ -1,9 +1,9 @@
 {
-  "version": "0.1.117",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.117/VertexCollectorSetup.exe",
-  "sha256": "a476ac036c1154af0ccbcd0285a625bcc95ddec60e5fcbb53f339dac58c95679",
-  "size": 20968631,
-  "notes": "Shutdown watcher: one second of slack on the stop marker's timestamp; its test no longer patches the global sleep",
-  "published": "2026-11-04T02:37:35Z",
-  "signature": "CsrlKiXGuAYJeDuIHW6WuEDiH/qRMpA6bs2BRS/gmCYRCPmNUGnnPDqYLaGBHMfm4o6SuGsPdA+307SAdQA7CA=="
+  "version": "0.1.118",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.118/VertexCollectorSetup.exe",
+  "sha256": "cff1b50803e43969910cae73063fa76e17499da09b27b0d2f521d96996408674",
+  "size": 21013853,
+  "notes": "COLLECTOR.md: the deeper reads, discovery, listening and the Simple/Advanced switches",
+  "published": "2026-11-04T03:05:16Z",
+  "signature": "23RQNAEIy52T91MaDz54nyeop6e9lshicGDXu9oLc+Q8GmGVJfGxrqHNHEzfTLtfPxk1c50KqDMotfEy+cf/BA=="
 }
