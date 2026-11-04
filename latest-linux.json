@@ -1,9 +1,9 @@
 {
-  "version": "0.1.118",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.118/vertex-collector_0.1.118_amd64.deb",
-  "sha256": "50092a5230d66cb84a9226b693714a99739a78e85e191fc506743d181160722e",
-  "size": 25606550,
-  "notes": "COLLECTOR.md: the deeper reads, discovery, listening and the Simple/Advanced switches",
-  "published": "2026-11-04T03:05:16Z",
-  "signature": "gw0oho6f88RhvPlXzi6GPo5Mktca9E1BEULoD5bMsy4qL4Dgo0cv4T204HXRtGde3Bl+f5rWbuEcwy01qMGEBQ=="
+  "version": "0.1.119",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.119/vertex-collector_0.1.119_amd64.deb",
+  "sha256": "b0764a4bc96f6f9e3b6a9e0c4e8c4d2392d181271ad84d20bccd886d61e16812",
+  "size": 25624368,
+  "notes": "Open-port findings name the exact address that answered and when; light sweeps re-test known-open ports so a closed port drops off; this computer's default gateway is classified as a router",
+  "published": "2026-11-04T03:57:23Z",
+  "signature": "W0vA1pjS1dMu+hFjSEcoHFYlLET7POCtmUctZ50mgUQQyMT83h1Ecc6VTH9sXA+W365dTDD+IVdurmVassfqBw=="
 }
