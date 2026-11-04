@@ -1,9 +1,9 @@
 {
-  "version": "0.1.116",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.116/VertexCollectorSetup.exe",
-  "sha256": "c60b5fe47a88d2e1e44fe69be30ffb2f6ff9cb14d67c3ced09af8907e73e7838",
-  "size": 20973076,
-  "notes": "Topology before any scan: one Internet for the route in use, same-MAC gateways from this computer's ARP table are one router, the rest are 'Gateway, not checked'",
-  "published": "2026-11-04T02:32:14Z",
-  "signature": "xVbPN7sR8ykSwLKztxLAK+soNCqk+hzRhGOd8ED9oXEHbE0rP7I3rJVmfLujrIIliZMxlyxPanExMtb3oDZuCw=="
+  "version": "0.1.117",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.117/VertexCollectorSetup.exe",
+  "sha256": "a476ac036c1154af0ccbcd0285a625bcc95ddec60e5fcbb53f339dac58c95679",
+  "size": 20968631,
+  "notes": "Shutdown watcher: one second of slack on the stop marker's timestamp; its test no longer patches the global sleep",
+  "published": "2026-11-04T02:37:35Z",
+  "signature": "CsrlKiXGuAYJeDuIHW6WuEDiH/qRMpA6bs2BRS/gmCYRCPmNUGnnPDqYLaGBHMfm4o6SuGsPdA+307SAdQA7CA=="
 }
