@@ -1,9 +1,9 @@
 {
-  "version": "0.1.117",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.117/vertex-collector_0.1.117_amd64.deb",
-  "sha256": "5f3433f92464a111fe616b97b6e480fda15eed9296e3e75f20715ab2bca00d4c",
-  "size": 25561910,
-  "notes": "Shutdown watcher: one second of slack on the stop marker's timestamp; its test no longer patches the global sleep",
-  "published": "2026-11-04T02:37:35Z",
-  "signature": "doZox+npscIdgXI9G1stBaafJU2jHPIYkwFJvvLvayQRe7ftN5xRejU5YaVOVGOCEwc0TDMvM7axrLmqq8vKCQ=="
+  "version": "0.1.118",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.118/vertex-collector_0.1.118_amd64.deb",
+  "sha256": "50092a5230d66cb84a9226b693714a99739a78e85e191fc506743d181160722e",
+  "size": 25606550,
+  "notes": "COLLECTOR.md: the deeper reads, discovery, listening and the Simple/Advanced switches",
+  "published": "2026-11-04T03:05:16Z",
+  "signature": "gw0oho6f88RhvPlXzi6GPo5Mktca9E1BEULoD5bMsy4qL4Dgo0cv4T204HXRtGde3Bl+f5rWbuEcwy01qMGEBQ=="
 }
