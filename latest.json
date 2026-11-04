@@ -1,9 +1,9 @@
 {
-  "version": "0.1.119",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.119/VertexCollectorSetup.exe",
-  "sha256": "07ec6bd497169130ec23d4dec48287dff6830cf8dc679a6eeab86b6ba7be3ec9",
-  "size": 21010734,
-  "notes": "Open-port findings name the exact address that answered and when; light sweeps re-test known-open ports so a closed port drops off; this computer's default gateway is classified as a router",
-  "published": "2026-11-04T03:57:22Z",
-  "signature": "BU7m59C2w8iPRyybA088vGxepQShOkA6FO80bFVgF+jg2yNRTiLx4AssU+6WTK9Hw1VM3heCwLwZpVP+DfijAQ=="
+  "version": "0.1.120",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.120/VertexCollectorSetup.exe",
+  "sha256": "354bd3b860af1ca813ec2a183d9513069d1f320610449f8c14bd18e460d81f2d",
+  "size": 21017283,
+  "notes": "Map status dots: a bright status palette of their own (green, red, amber) with a background ring, and 'off' or 'not scanned' as a hollow ring, in both themes; legend shows all four",
+  "published": "2026-11-04T04:22:18Z",
+  "signature": "u/Do5s27kU/+hQXcQyUObMqYVjYBw7giabAeWFwp1LtPDTrKjdLUaea7ldPCEi/xFV+L4BbjXX7ILCIrfySEAw=="
 }
