@@ -1,9 +1,9 @@
 {
-  "version": "0.1.111",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.111/VertexCollectorSetup.exe",
-  "sha256": "e3b21bf155c1561317f3d71f3c8751911fb93223dba3798507cd96dda9e08982",
-  "size": 20961531,
-  "notes": "Subnets: cards sized to their grid, as many per row as fit, with the legend beside the grid instead of under it",
-  "published": "2026-11-04T01:57:35Z",
-  "signature": "NK6oO3ot8dlSDQlgBZ9YoD0SdFBG15kd/MyCXchlDm7BRCO2mdFUmMuBjk1GnO8e4UsvRpu8KC6Wzawt33QBAQ=="
+  "version": "0.1.113",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.113/VertexCollectorSetup.exe",
+  "sha256": "e87bebf77bcd175d6e93764b8442001bca711bbb63556b05cbdc31dcdc7c9266",
+  "size": 20960554,
+  "notes": "Scans: a subnet whose sweep fails waits a minute before it is tried again; scheduling test made thread-safe",
+  "published": "2026-11-04T02:09:26Z",
+  "signature": "A+0yz0ikfYGOebpPlag6QhbBDP9D+8XFZTlW224MWFC5X3SHwEEfY9rFEsBJgB74Y91nYfWjaj1zMItKgd6DBg=="
 }
