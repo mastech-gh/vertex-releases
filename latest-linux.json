@@ -1,9 +1,9 @@
 {
-  "version": "0.1.111",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.111/vertex-collector_0.1.111_amd64.deb",
-  "sha256": "99194fb4b443d91e61d0676d1dec0a2abf974ee262b12ab49e4c176f823a2c54",
-  "size": 25571324,
-  "notes": "Subnets: cards sized to their grid, as many per row as fit, with the legend beside the grid instead of under it",
-  "published": "2026-11-04T01:57:35Z",
-  "signature": "YA6KQN+YcDBnFEKFjzGxO40wDCu8YMw/0zd1gr8xMMMxkP7YLLOXcV+MoCnNQj4IEjiisNFm9x7FgK/Ps8RtDQ=="
+  "version": "0.1.113",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.113/vertex-collector_0.1.113_amd64.deb",
+  "sha256": "7fe9baf873e4b4a3f6a015e8898e3b75fc6b85d1eae2de5405bfa8d8bdbc7318",
+  "size": 25557264,
+  "notes": "Scans: a subnet whose sweep fails waits a minute before it is tried again; scheduling test made thread-safe",
+  "published": "2026-11-04T02:09:26Z",
+  "signature": "1Kvl4HWrgERQz0xoCEnJtNWMMrZL/9x1/CbBiPtDlL9MnjL/oseqGn1Zef0y+Mlg2VjEOkjkin8bF1LyhutKAg=="
 }
