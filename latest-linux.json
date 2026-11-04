@@ -1,9 +1,9 @@
 {
-  "version": "0.1.113",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.113/vertex-collector_0.1.113_amd64.deb",
-  "sha256": "7fe9baf873e4b4a3f6a015e8898e3b75fc6b85d1eae2de5405bfa8d8bdbc7318",
-  "size": 25557264,
-  "notes": "Scans: a subnet whose sweep fails waits a minute before it is tried again; scheduling test made thread-safe",
-  "published": "2026-11-04T02:09:26Z",
-  "signature": "1Kvl4HWrgERQz0xoCEnJtNWMMrZL/9x1/CbBiPtDlL9MnjL/oseqGn1Zef0y+Mlg2VjEOkjkin8bF1LyhutKAg=="
+  "version": "0.1.114",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.114/vertex-collector_0.1.114_amd64.deb",
+  "sha256": "c5a6572fe18f851d092b0108efcf46080a3c81231a0686cb2afbc3b417b99c19",
+  "size": 25558682,
+  "notes": "Topology: one Internet per gateway device, not per default route; a router's VLAN address is the router; an unanswered gateway is not an Internet",
+  "published": "2026-11-04T02:14:12Z",
+  "signature": "iLGPTmTvN/ac7vHyGSqn6xkFiKndnDJRy1h/gV5QlEbK6ksHzHqVe6/3xg7b87X8NG1AyzTYa3U7nRuwJ3z9DA=="
 }
