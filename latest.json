@@ -1,9 +1,9 @@
 {
-  "version": "0.1.118",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.118/VertexCollectorSetup.exe",
-  "sha256": "cff1b50803e43969910cae73063fa76e17499da09b27b0d2f521d96996408674",
-  "size": 21013853,
-  "notes": "COLLECTOR.md: the deeper reads, discovery, listening and the Simple/Advanced switches",
-  "published": "2026-11-04T03:05:16Z",
-  "signature": "23RQNAEIy52T91MaDz54nyeop6e9lshicGDXu9oLc+Q8GmGVJfGxrqHNHEzfTLtfPxk1c50KqDMotfEy+cf/BA=="
+  "version": "0.1.119",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.119/VertexCollectorSetup.exe",
+  "sha256": "07ec6bd497169130ec23d4dec48287dff6830cf8dc679a6eeab86b6ba7be3ec9",
+  "size": 21010734,
+  "notes": "Open-port findings name the exact address that answered and when; light sweeps re-test known-open ports so a closed port drops off; this computer's default gateway is classified as a router",
+  "published": "2026-11-04T03:57:22Z",
+  "signature": "BU7m59C2w8iPRyybA088vGxepQShOkA6FO80bFVgF+jg2yNRTiLx4AssU+6WTK9Hw1VM3heCwLwZpVP+DfijAQ=="
 }
