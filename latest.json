@@ -1,9 +1,9 @@
 {
-  "version": "0.1.114",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.114/VertexCollectorSetup.exe",
-  "sha256": "868c17c7912670074ceaa94feeb680f0c7523f07586e388acb42d74bd0612a43",
-  "size": 20965577,
-  "notes": "Topology: one Internet per gateway device, not per default route; a router's VLAN address is the router; an unanswered gateway is not an Internet",
-  "published": "2026-11-04T02:14:11Z",
-  "signature": "MFaixvpDrWOPjpZfvscELBac+e6eAbcwNeHXCzdNoNu+WxswZ7UfMwyf478HMlmnwDDgsmfrBCdRZuFD6gE2Dw=="
+  "version": "0.1.116",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.116/VertexCollectorSetup.exe",
+  "sha256": "c60b5fe47a88d2e1e44fe69be30ffb2f6ff9cb14d67c3ced09af8907e73e7838",
+  "size": 20973076,
+  "notes": "Topology before any scan: one Internet for the route in use, same-MAC gateways from this computer's ARP table are one router, the rest are 'Gateway, not checked'",
+  "published": "2026-11-04T02:32:14Z",
+  "signature": "xVbPN7sR8ykSwLKztxLAK+soNCqk+hzRhGOd8ED9oXEHbE0rP7I3rJVmfLujrIIliZMxlyxPanExMtb3oDZuCw=="
 }
