@@ -1,9 +1,9 @@
 {
-  "version": "0.1.114",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.114/vertex-collector_0.1.114_amd64.deb",
-  "sha256": "c5a6572fe18f851d092b0108efcf46080a3c81231a0686cb2afbc3b417b99c19",
-  "size": 25558682,
-  "notes": "Topology: one Internet per gateway device, not per default route; a router's VLAN address is the router; an unanswered gateway is not an Internet",
-  "published": "2026-11-04T02:14:12Z",
-  "signature": "iLGPTmTvN/ac7vHyGSqn6xkFiKndnDJRy1h/gV5QlEbK6ksHzHqVe6/3xg7b87X8NG1AyzTYa3U7nRuwJ3z9DA=="
+  "version": "0.1.116",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.116/vertex-collector_0.1.116_amd64.deb",
+  "sha256": "f85b2badd7110485e9b561c69a16b779f20029b118a4010e8940be88048061d1",
+  "size": 25563118,
+  "notes": "Topology before any scan: one Internet for the route in use, same-MAC gateways from this computer's ARP table are one router, the rest are 'Gateway, not checked'",
+  "published": "2026-11-04T02:32:15Z",
+  "signature": "behUfaIAQRHlmGt+7SNucndGWv/XtrlcESKdWGqkId1eJVdsXkQN8hDtREz6EnriExqXReiQd1J+DG/im/jKDg=="
 }
