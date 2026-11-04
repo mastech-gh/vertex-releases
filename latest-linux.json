@@ -1,9 +1,9 @@
 {
-  "version": "0.1.109",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.109/vertex-collector_0.1.109_amd64.deb",
-  "sha256": "54b1eecf58d751e3c57b74d87ab7fcb8efe3f69a1752f8666c3da4c4808fcee5",
-  "size": 25556492,
-  "notes": "Data views: Devices, Topology, Findings and Changes as their own pages with one device side panel",
-  "published": "2026-11-03T22:58:46Z",
-  "signature": "hkK3wR79CanGK7XLrG4SbN74Ktp5D1ZqXEzBnVO55rQYN+xm9CBKdfRdcerKF9h9rDr3XFgRyJpRYqaxI9KKAg=="
+  "version": "0.1.110",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.110/vertex-collector_0.1.110_amd64.deb",
+  "sha256": "c71fb9bdada2992cc61e35bccca16d62a8931d3fb3ab585488b807327f9489e5",
+  "size": 25571618,
+  "notes": "Back to the docked map with the Topology button; keep Findings and Changes; map no longer shrinks and snaps when the dock opens",
+  "published": "2026-11-04T01:28:41Z",
+  "signature": "NiF0A+wZ76/bk8Eo9tFomuOc9nJc3HIohkHnfP3WVcNxNWXF6GBXZnAG5FwvdR3j9Vq/ggzXwdBPNPstI7fDDQ=="
 }
