@@ -1,9 +1,9 @@
 {
-  "version": "0.1.110",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.110/VertexCollectorSetup.exe",
-  "sha256": "1447351b8ca4d1ed34eba02e2a979a50ee965d4f4826a5e4a6fba8d9bdc558da",
-  "size": 20958336,
-  "notes": "Back to the docked map with the Topology button; keep Findings and Changes; map no longer shrinks and snaps when the dock opens",
-  "published": "2026-11-04T01:28:41Z",
-  "signature": "AKLT3b4suIzC4Pb0csRzh9r3EbGUNr/wPzFZiz7NZASosBZ+cD0d97FjrRBZWU5OcsFuKL/20uAqRJNXYikBBA=="
+  "version": "0.1.111",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.111/VertexCollectorSetup.exe",
+  "sha256": "e3b21bf155c1561317f3d71f3c8751911fb93223dba3798507cd96dda9e08982",
+  "size": 20961531,
+  "notes": "Subnets: cards sized to their grid, as many per row as fit, with the legend beside the grid instead of under it",
+  "published": "2026-11-04T01:57:35Z",
+  "signature": "NK6oO3ot8dlSDQlgBZ9YoD0SdFBG15kd/MyCXchlDm7BRCO2mdFUmMuBjk1GnO8e4UsvRpu8KC6Wzawt33QBAQ=="
 }
