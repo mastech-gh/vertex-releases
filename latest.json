@@ -1,9 +1,9 @@
 {
-  "version": "0.1.127",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.127/VertexCollectorSetup.exe",
-  "sha256": "a52169ac44b63d3b54cbbe97974912943f75ea16e59c64e4f3c8310cd6f7c6f1",
-  "size": 20979730,
+  "version": "0.1.128",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/v0.1.128/VertexCollectorSetup.exe",
+  "sha256": "e2c1f079c8bea7d07def9ee66fb3dd57b594d4623510a58c9deec6004855153f",
+  "size": 20973958,
   "notes": "Maintenance release.",
-  "published": "2026-11-12T06:37:34Z",
-  "signature": "ZW/tvWDAL5ifSDkitB96aGLcSXhaIH0GA7ZXeU2almqYsp9rM9ldd3zm6Gb8mdwI1RfeM9DtyXH7RKnSSvqXAg=="
+  "published": "2026-11-12T07:01:46Z",
+  "signature": "ziHvXFqfUrJx9Z7xBHYFO+0UmHdHfITj/h7Y1RoJU6i5d6xYs09KqOi0C9rx5Yt3TLDoLa4CYDQnJu8UF1ZbBQ=="
 }
