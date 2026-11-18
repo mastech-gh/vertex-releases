@@ -1,9 +1,9 @@
 {
-  "version": "0.1.136",
-  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.136/vertex-collector_0.1.136_amd64.deb",
-  "sha256": "f76dae04010b26c3c3ee1d2596eaec91b021d0d462b417be6e5cf75799762ac6",
-  "size": 26652614,
+  "version": "0.1.137",
+  "url": "https://github.com/mastech-gh/vertex-releases/releases/download/linux-v0.1.137/vertex-collector_0.1.137_amd64.deb",
+  "sha256": "87eeaed9f84f5e77af742d1cb2e04ac35490870b20290069aefb454b98b08dc6",
+  "size": 26658578,
   "notes": "Maintenance release.",
-  "published": "2026-11-18T03:30:08Z",
-  "signature": "gt63fIEcSocJCgPjsTipQn85GBBvyY75gGGoLYcMmShajvNH2n6Krw2ER7d+LKiShmehh6GoPRJAsLVCgXJJDg=="
+  "published": "2026-11-18T06:18:25Z",
+  "signature": "avDs6M1h0bcLHMAh8ag/XLTTu6zmSFDCQp3OitMVsMvaH6Ew7jVs+aFlV0z8aFfzISNFbQZ5p3b5pV7BSGGzAA=="
 }
